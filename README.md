@@ -1,17 +1,20 @@
 # Laboratory-Data-Science-Resources
-A list of resources of tools to assist with laboratory data science. 
+Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Science Program repository. This collection provides resources, tools, and educational materials for applying data science methods to laboratory medicine and diagnostics.
+
 
 ## Table of Contents
 - [Laboratory Data Science](#labdatascience)
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
+- [Getting Help)(#help)
 
 ## Laboratory Data Science
 
 - [What Is Data Analytics in Lab Medicine Anyway?](https://myadlm.org/community/for-early-career-members/education-resources/what-is-data-analytics-in-lab-medicine-anyway)
 - [Machine learning algorithms for predicting urinary tract infections: Integration of demographic data and dipstick reflectance results](https://myadlm.org/education/all-webinars/webinars/2025/november/machine-learning-algorithms-for-predicting-urinary-tract-infections)
 - [On Demand Webinars Data Analytics Webinars](https://myadlm.org/education/all-webinars/on-demand-webinars#q=%22data%20analytics%22%20&sort=%40searchdatecoveo%20descending)
+- [Data science in laboratory medicine certificate program - COMING SOON](https://myadlm.org/education/online-certificate-programs/certificate-programs/data-science-in-laboratory-medicine-certificate-program)
   
 ## Python
 
@@ -21,15 +24,11 @@ A list of resources of tools to assist with laboratory data science.
 ## R
 
 #### R Books
-- [Text Mining with R](http://tidytextmining.com/)
-- [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
-- [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 - [R for Data Science](https://amzn.to/2MFCLcy)
 - [R in Action: Data Analysis and Graphics with R](https://amzn.to/2CWUHuz)
 - [R for Everyone: Advanced Analytics and Graphics](https://amzn.to/2MH1wF4)
 
 #### R Courses Online
-
 - [Intro to R](https://www.datacamp.com/courses/free-introduction-to-r)
 - [R Programming on Coursera](https://www.coursera.org/learn/r-programming)
 - [Mastering Software Development in R](https://www.coursera.org/specializations/r)
@@ -40,13 +39,14 @@ A list of resources of tools to assist with laboratory data science.
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [SQLite Tutorial](http://www.sqlitetutorial.net/)
 
+## Getting Help
+- Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
+  
 ## Acknowledgments
 
 This repository is maintained by the ADLM Data Science Program with contributions from laboratory professionals, data scientists, and researchers. We thank our community for their commitment to advancing data science in laboratory medicine.
 
 **Stay Connected**
-
-- Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
 - LinkedIn: Follow [@myADLM](https://www.linkedin.com/company/myadlm) for the latest news and resources
 - [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/presentations): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
 
