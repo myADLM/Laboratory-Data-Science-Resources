@@ -40,3 +40,15 @@ A list of resources of tools to assist with laboratory data science.
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [SQLite Tutorial](http://www.sqlitetutorial.net/)
 
+## Acknowledgments
+
+This repository is maintained by the ADLM Data Science Program with contributions from laboratory professionals, data scientists, and researchers. We thank our community for their commitment to advancing data science in laboratory medicine.
+
+**Stay Connected**
+
+- Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
+- LinkedIn: Follow [@myADLM](https://www.linkedin.com/company/myadlm) for the latest news and resources
+- [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/presentations): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
+
+*Last Updated: November 2025*
+
