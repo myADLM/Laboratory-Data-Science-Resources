@@ -14,6 +14,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 
 - [What Is Data Analytics in Lab Medicine Anyway?](https://myadlm.org/community/for-early-career-members/education-resources/what-is-data-analytics-in-lab-medicine-anyway)
 - [Machine learning algorithms for predicting urinary tract infections: Integration of demographic data and dipstick reflectance results](https://myadlm.org/education/all-webinars/webinars/2025/november/machine-learning-algorithms-for-predicting-urinary-tract-infections)
+- [Advancing patient care with data science in clinical laboratories](https://myadlm.org/education/online-courses/online-courses/advancing-patient-care-with-data-science-in-clinical-laboratories)
 - [On Demand Webinars Data Analytics Webinars](https://myadlm.org/education/all-webinars/on-demand-webinars#q=%22data%20analytics%22%20&sort=%40searchdatecoveo%20descending)
 - [Data science in laboratory medicine certificate program - COMING SOON](https://myadlm.org/education/online-certificate-programs/certificate-programs/data-science-in-laboratory-medicine-certificate-program)
   
@@ -41,13 +42,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [SQLite Tutorial](http://www.sqlitetutorial.net/)
 
 ## Open-Source Tools & Platforms
-
-- Jupyter Notebooks – Interactive coding for data analysis and visualization.
-- KNIME – GUI-based data analytics and machine learning workflows.
-- LabPlot – Open-source scientific plotting and data analysis.
-- Zenodo – Repository for sharing datasets and reproducible research.
-- Scikit-learn – Machine learning library for Python.
-- TensorFlow & PyTorch – Deep learning frameworks
+- [Zenodo](https://zenodo.org/) – Repository for sharing datasetsh.
 
 ## Getting Help
 - Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
