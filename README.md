@@ -8,6 +8,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [R](#r)
 - [SQL](#sql)
 - [Open-Source Tools & Platforms](#opensource)
+- [Journals](#journals)
 - [Getting Help](#help)
 
 ## Laboratory Data Science
@@ -43,6 +44,10 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 
 ## Open-Source Tools & Platforms
 - [Zenodo](https://zenodo.org/) – Repository for sharing datasetsh.
+
+## Journals
+- [Journal of Applied Laboratory Medicine]([https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
+- [Clinical Chemistry Journal](https://academic.oup.com/clinchem/search-results?page=1&q=data%20science&fl_SiteID=6246&SearchSourceType=1&allJournals=1)
 
 ## Getting Help
 - Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
