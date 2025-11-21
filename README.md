@@ -7,6 +7,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
+- [Open-Source Tools & Platforms](#opensource)
 - [Getting Help](#help)
 
 ## Laboratory Data Science
@@ -38,6 +39,15 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Intro to SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [SQLite Tutorial](http://www.sqlitetutorial.net/)
+
+## Open-Source Tools & Platforms
+
+- Jupyter Notebooks – Interactive coding for data analysis and visualization.
+- KNIME – GUI-based data analytics and machine learning workflows.
+- LabPlot – Open-source scientific plotting and data analysis.
+- Zenodo – Repository for sharing datasets and reproducible research.
+- Scikit-learn – Machine learning library for Python.
+- TensorFlow & PyTorch – Deep learning frameworks
 
 ## Getting Help
 - Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
