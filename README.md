@@ -2,10 +2,17 @@
 A list of resources of tools to assist with laboratory data science. 
 
 ## Table of Contents
+- [Laboratory Data Science](#labdatascience)
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
 
+## Laboratory Data Science
+
+- [What Is Data Analytics in Lab Medicine Anyway?](https://myadlm.org/community/for-early-career-members/education-resources/what-is-data-analytics-in-lab-medicine-anyway)
+- [Machine learning algorithms for predicting urinary tract infections: Integration of demographic data and dipstick reflectance results](https://myadlm.org/education/all-webinars/webinars/2025/november/machine-learning-algorithms-for-predicting-urinary-tract-infections)
+- [On Demand Webinars Data Analytics Webinars](https://myadlm.org/education/all-webinars/on-demand-webinars#q=%22data%20analytics%22%20&sort=%40searchdatecoveo%20descending)
+  
 ## Python
 
 #### Introduction to Python
