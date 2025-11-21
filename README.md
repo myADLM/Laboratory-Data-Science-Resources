@@ -7,7 +7,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Python](#python)
 - [R](#r)
 - [SQL](#sql)
-- [Getting Help)(#help)
+- [Getting Help](#help)
 
 ## Laboratory Data Science
 
