@@ -46,7 +46,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Zenodo](https://zenodo.org/) – Repository for sharing datasetsh.
 
 ## Journals
-- [Journal of Applied Laboratory Medicine]([https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
+- [Journal of Applied Laboratory Medicine](https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
 - [Clinical Chemistry Journal](https://academic.oup.com/clinchem/search-results?page=1&q=data%20science&fl_SiteID=6246&SearchSourceType=1&allJournals=1)
 
 ## Getting Help
