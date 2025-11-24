@@ -43,7 +43,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [SQLite Tutorial](http://www.sqlitetutorial.net/)
 
 ## Open-Source Tools & Platforms
-- [Zenodo](https://zenodo.org/) – Repository for sharing datasetsh.
+- [Zenodo](https://zenodo.org/) – Repository for sharing datasets.
 
 ## Journals
 - [Journal of Applied Laboratory Medicine](https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
