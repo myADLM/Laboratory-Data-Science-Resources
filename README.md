@@ -60,7 +60,7 @@ This repository is maintained by the ADLM Data Science Program with contribution
 
 **Stay Connected**
 - LinkedIn: Follow [@myADLM](https://www.linkedin.com/company/myadlm) for the latest news and resources
-- [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/presentations): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
+- [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/2026-data-science-symposium): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
 
-*Last Updated: November 2025*
+*Last Updated: December 2025*
 
