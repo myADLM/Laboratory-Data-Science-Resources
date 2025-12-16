@@ -31,7 +31,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 | Hu - IFE Recognition | 2023 | CNN Ensemble | [Zenodo](https://doi.org/10.5281/zenodo.7123624) | 12,703 images |
 | Spies - IV Contamination | 2024 | UMAP + XGBoost | [GitHub](https://github.com/nspies13/bmp_umap_paper) + [FigShare](https://doi.org/10.6084/m9.figshare.23805456) | 2.5M BMP results |
 
-### Complete Clinical Chemistry Inventory
+### Clinical Chemistry Journal
 
 | Citation | ML Method | Code/Data Access | Application |
 |----------|-----------|------------------|-------------|
@@ -43,7 +43,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 | Master SR et al. "IFCC WG Recommendations." *Clin Chem* 2023;69(7):690-698. [DOI: 10.1093/clinchem/hvad055](https://doi.org/10.1093/clinchem/hvad055) | Guidelines | Supplementary materials | Best practices framework |
 | Chang YH et al. "Machine Learning for Detecting Iron Deficiency." *Clin Chem* 2025;71(9):949-961. [DOI: 10.1093/clinchem/hvaf074](https://doi.org/10.1093/clinchem/hvaf074) | ML with CBC + CPD | Deployed at China Medical University Hospital | Iron deficiency screening |
 
-### Journal of Applied Laboratory Medicine Publications 
+### Journal of Applied Laboratory Medicine 
 
 | Citation | ML Method | Code/Data Access | Application |
 |----------|-----------|------------------|-------------|
