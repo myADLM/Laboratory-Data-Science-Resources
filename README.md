@@ -22,15 +22,6 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
   
 ## Datasets and Code
 
-### Clinical Chemistry Publications 
-
-| Article | Year | ML Method | Code Location | Dataset Size |
-|---------|------|-----------|---------------|--------------|
-| Schipper - Hemoglobinopathies | 2024 | XGBoost | [GitHub](https://github.com/aschipper/hemoglobinopathies-AI) + [FigShare](https://doi.org/10.6084/m9.figshare.25765302) | 10,322 patients |
-| Steinbach - Sepsis CBC | 2024 | Boosted RF | [GitHub (R pkg)](https://github.com/ampel-leipzig/sbcdata) | 850,000+ admissions |
-| Hu - IFE Recognition | 2023 | CNN Ensemble | [Zenodo](https://doi.org/10.5281/zenodo.7123624) | 12,703 images |
-| Spies - IV Contamination | 2024 | UMAP + XGBoost | [GitHub](https://github.com/nspies13/bmp_umap_paper) + [FigShare](https://doi.org/10.6084/m9.figshare.23805456) | 2.5M BMP results |
-
 ### Clinical Chemistry Journal
 
 | Citation | ML Method | Code/Data Access | Application |
@@ -40,9 +31,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 | Steinbach D et al. "Applying Machine Learning to Blood Count Data Predicts Sepsis." *Clin Chem* 2024;70(3):506-515. [DOI: 10.1093/clinchem/hvae001](https://doi.org/10.1093/clinchem/hvae001) | Boosted random forest | [sbcdata (R)](https://github.com/ampel-leipzig/sbcdata), [sbcmodel (MATLAB)](https://github.com/ampel-leipzig/sbcmodel); [Zenodo: 10.5281/zenodo.6922968](https://doi.org/10.5281/zenodo.6922968) | Early sepsis warning |
 | Spies NC et al. "Automating Detection of IV Fluid Contamination Using Unsupervised ML." *Clin Chem* 2024;70(2):444-452. [DOI: 10.1093/clinchem/hvad207](https://doi.org/10.1093/clinchem/hvad207) | UMAP unsupervised | [GitHub](https://github.com/nspies13/bmp_umap_paper); [FigShare: 10.6084/m9.figshare.23805456](https://doi.org/10.6084/m9.figshare.23805456) | Preanalytical error detection |
 | Spies NC et al. "Validating, Implementing, and Monitoring ML Solutions." *Clin Chem* 2024;70(11):1334-1343. [DOI: 10.1093/clinchem/hvae126](https://doi.org/10.1093/clinchem/hvae126) | XGBoost tutorial | [Tutorial Site](https://nspies13.github.io); [FigShare: 10.6084/m9.figshare.23805456](https://doi.org/10.6084/m9.figshare.23805456) | Educational resource |
-| Master SR et al. "IFCC WG Recommendations." *Clin Chem* 2023;69(7):690-698. [DOI: 10.1093/clinchem/hvad055](https://doi.org/10.1093/clinchem/hvad055) | Guidelines | Supplementary materials | Best practices framework |
-| Chang YH et al. "Machine Learning for Detecting Iron Deficiency." *Clin Chem* 2025;71(9):949-961. [DOI: 10.1093/clinchem/hvaf074](https://doi.org/10.1093/clinchem/hvaf074) | ML with CBC + CPD | Deployed at China Medical University Hospital | Iron deficiency screening |
-
+|
 ### Journal of Applied Laboratory Medicine 
 
 | Citation | ML Method | Code/Data Access | Application |
