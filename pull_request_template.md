@@ -1,5 +1,5 @@
-#### **Tool Name** - Brief Description (Language)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](URL)
+# **Tool Name** - Brief Description (Language)
+
 
 **What it does**: One sentence description
 **Key features**: 3-5 bullet points
