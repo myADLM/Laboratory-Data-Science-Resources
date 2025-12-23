@@ -12,7 +12,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Journals](#journals)
 - [Getting Help](#help)
 - [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgments](#acknowledgements)
 
 ## Getting Started
 
