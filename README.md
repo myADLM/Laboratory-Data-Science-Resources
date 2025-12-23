@@ -76,6 +76,9 @@ Start here if you have laboratory experience but are new to data science.
 
 ## Open-Source Tools & Platforms
 - [Zenodo](https://zenodo.org/) – Repository for sharing datasets.
+- [Laboratory Data Package](https://dhlab-tseng.github.io/lab/index.html) - Transforms raw EHR laboratory records into datasets
+- [Reference Intervals](https://github.com/SandraKla/AdRI) - Calculates age dependent reference intervals
+- 
 
 ## Journals
 - [Journal of Applied Laboratory Medicine](https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
