@@ -11,6 +11,8 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Open-Source Tools & Platforms](#opensource)
 - [Journals](#journals)
 - [Getting Help](#help)
+- [Contributin](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ## Getting Started
 
@@ -99,7 +101,8 @@ We welcome contributions! This is a community-driven resource.
 - Broken links
 - Outdated information
 - Suggestions for new sections
-
+- **GitHub Issues**: [Report problems or suggest improvements](https://github.com/myADLM/Laboratory-Data-Science-Resources/issues)
+- 
 ### Contribution Guidelines
 
 - **Quality over quantity**: Focus on resources that are actively maintained and well-documented
