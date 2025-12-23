@@ -52,10 +52,6 @@ Start here if you have laboratory experience but are new to data science.
 | Walke D et al. "SBC-SHAP: Accessibility and Interpretability of ML." *JALM* 2025;10(5):1226-1240. [DOI: 10.1093/jalm/jfaf091](https://doi.org/10.1093/jalm/jfaf091) | SHAP explainability | [GitHub](https://github.com/danielwalke/sbc_app) | Explainable sepsis prediction |
 | Boerman AW et al. "Predicting Urine Culture Outcomes." *JALM* 2025;10(6):1439-1452. [DOI: 10.1093/jalm/jfaf131](https://doi.org/10.1093/jalm/jfaf131) | XGBoost | [Supplementary materials](https://academic.oup.com/jalm/article/10/6/1439/8313887) | Urine culture stewardship |
 
-
-
-
-
 ## R
 
 #### R Books
@@ -78,7 +74,7 @@ Start here if you have laboratory experience but are new to data science.
 - [Zenodo](https://zenodo.org/) – Repository for sharing datasets.
 - [Laboratory Data Package](https://dhlab-tseng.github.io/lab/index.html) - Transforms raw EHR laboratory records into datasets
 - [Reference Intervals](https://github.com/SandraKla/AdRI) - Calculates age dependent reference intervals
-- 
+  
 
 ## Journals
 - [Journal of Applied Laboratory Medicine](https://academic.oup.com/jalm](https://academic.oup.com/jalm/search-results?page=1&q=data%20science&fl_SiteID=6252&SearchSourceType=1&allJournals=1)) - Has some helpful articles on data science
