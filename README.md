@@ -82,6 +82,15 @@ Start here if you have laboratory experience but are new to data science.
 
 ## Getting Help
 - Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
+
+## Contribution Guidelines
+
+- **Quality over quantity**: Focus on resources that are actively maintained and well-documented
+- **Educational value**: Prioritize resources that help people learn
+- **Clinical relevance**: Ensure tools address real laboratory medicine challenges
+- **Open access preferred**: Public repositories and free resources first
+- **Include context**: Explain what tools do and who they’re for
+- **Pull Requests**: [Contribute directly](https://github.com/myADLM/Laboratory-Data-Science-Resources/pulls)
   
 ## Acknowledgments
 
