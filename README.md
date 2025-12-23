@@ -12,17 +12,17 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Journals](#journals)
 - [Getting Help](#help)
 - [Contributing](#contributing)
-- [Acknowledgments](#acknowledgements)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
 Start here if you have laboratory experience but are new to data science. 
-1. [Practical Machine Learning in the Clinical Laboratory](https://nspies13.github.io/)
-2. [Applications of Machine Learning in Routine Laboratory Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9007900/)
-3. Programming Basics:
-  - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_cid=22785184688&utm_aid=185890093361&utm_campaign=220808_1-ps-brd~brd~branded-variations_2-b2c_3-nam_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&utm_loc=9007781-&utm_mtd=e-c&utm_kw=datacamp%20python%20course&utm_source=google&utm_medium=paid_search&utm_content=ps-other~nam-en~brd~tech~python&gad_source=1&gad_campaignid=22785184688&gbraid=0AAAAADQ9WsHA-WwTX0UE7KV3GZVFT3crP&gclid=CjwKCAiAuIDJBhBoEiwAxhgyFlePRJEFIy1oBgZ9ifOMjJ5CN0fIaj9ryc_CZOiAliENUOQEb-rXVRoC0CcQAvD_BwE)
-  - [Python Tutorial - Kaggle](https://www.kaggle.com/learn/python)
-  - [R for Data Science](https://r4ds.hadley.nz/)
+  1. [Practical Machine Learning in the Clinical Laboratory](https://nspies13.github.io/)
+  2. [Applications of Machine Learning in Routine Laboratory Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9007900/)
+  3. Programming Basics:
+    - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_cid=22785184688&utm_aid=185890093361&utm_campaign=220808_1-ps-brd~brd~branded-variations_2-b2c_3-nam_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&utm_loc=9007781-&utm_mtd=e-c&utm_kw=datacamp%20python%20course&utm_source=google&utm_medium=paid_search&utm_content=ps-other~nam-en~brd~tech~python&gad_source=1&gad_campaignid=22785184688&gbraid=0AAAAADQ9WsHA-WwTX0UE7KV3GZVFT3crP&gclid=CjwKCAiAuIDJBhBoEiwAxhgyFlePRJEFIy1oBgZ9ifOMjJ5CN0fIaj9ryc_CZOiAliENUOQEb-rXVRoC0CcQAvD_BwE)
+    - [Python Tutorial - Kaggle](https://www.kaggle.com/learn/python)
+    - [R for Data Science](https://r4ds.hadley.nz/)
 
 ## Laboratory Data Science
 
@@ -93,32 +93,32 @@ We welcome contributions! This is a community-driven resource.
 
 1. **Star this repository** to show support
 2. **Submit pull requests** for:
-- New tools and resources
-- Updated links or descriptions
-- New datasets or tutorials
-- Corrections or improvements
+  - New tools and resources
+  - Updated links or descriptions
+  - New datasets or tutorials
+  - Corrections or improvements
 3. **Open issues** for:
-- Broken links
-- Outdated information
-- Suggestions for new sections
-- **GitHub Issues**: [Report problems or suggest improvements](https://github.com/myADLM/Laboratory-Data-Science-Resources/issues)
-- 
+  - Broken links
+  - Outdated information
+  - Suggestions for new sections
+  - **GitHub Issues**: [Report problems or suggest improvements](https://github.com/myADLM/Laboratory-Data-Science-Resources/issues)
+  
 ### Contribution Guidelines
 
-- **Quality over quantity**: Focus on resources that are actively maintained and well-documented
-- **Educational value**: Prioritize resources that help people learn
-- **Clinical relevance**: Ensure tools address real laboratory medicine challenges
-- **Open access preferred**: Public repositories and free resources first
-- **Include context**: Explain what tools do and who they’re for
-- **Pull Requests**: [Contribute directly](https://github.com/myADLM/Laboratory-Data-Science-Resources/pulls)
+  - **Quality over quantity**: Focus on resources that are actively maintained and well-documented
+  - **Educational value**: Prioritize resources that help people learn
+  - **Clinical relevance**: Ensure tools address real laboratory medicine challenges
+  - **Open access preferred**: Public repositories and free resources first
+  - **Include context**: Explain what tools do and who they’re for
+  - **Pull Requests**: [Contribute directly](https://github.com/myADLM/Laboratory-Data-Science-Resources/pulls)
   
 ## Acknowledgments
 
 This repository is maintained by the ADLM Data Science Program with contributions from laboratory professionals, data scientists, and researchers. We thank our community for their commitment to advancing data science in laboratory medicine.
 
 **Stay Connected**
-- LinkedIn: Follow [@myADLM](https://www.linkedin.com/company/myadlm) for the latest news and resources
-- [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/2026-data-science-symposium): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
+  - LinkedIn: Follow [@myADLM](https://www.linkedin.com/company/myadlm) for the latest news and resources
+  - [Annual Data Science Symposium](https://myadlm.org/science-and-research/data-analytics-in-laboratory-medicine/2026-data-science-symposium): Join us for hands-on data science workshops and networking. Stay tuned for registration for 2026.
 
 *Last Updated: December 2025*
 
