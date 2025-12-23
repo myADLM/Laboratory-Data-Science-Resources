@@ -3,14 +3,24 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 
 
 ## Table of Contents
+- [Getting Started](#gettingstarted)
 - [Laboratory Data Science](#labdatascience)
 - [Datasets and Code](#datasetcode)
-- [Python](#python)
 - [R](#r)
 - [SQL](#sql)
 - [Open-Source Tools & Platforms](#opensource)
 - [Journals](#journals)
 - [Getting Help](#help)
+
+## Getting Started
+
+Start here if you have laboratory experience but are new to data science. 
+1. [Practical Machine Learning in the Clinical Laboratory](https://nspies13.github.io/)
+2. [Applications of Machine Learning in Routine Laboratory Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC9007900/)
+3. Programming Basics:
+  - [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_cid=22785184688&utm_aid=185890093361&utm_campaign=220808_1-ps-brd~brd~branded-variations_2-b2c_3-nam_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&utm_loc=9007781-&utm_mtd=e-c&utm_kw=datacamp%20python%20course&utm_source=google&utm_medium=paid_search&utm_content=ps-other~nam-en~brd~tech~python&gad_source=1&gad_campaignid=22785184688&gbraid=0AAAAADQ9WsHA-WwTX0UE7KV3GZVFT3crP&gclid=CjwKCAiAuIDJBhBoEiwAxhgyFlePRJEFIy1oBgZ9ifOMjJ5CN0fIaj9ryc_CZOiAliENUOQEb-rXVRoC0CcQAvD_BwE)
+  - [Python Tutorial - Kaggle](https://www.kaggle.com/learn/python)
+  - [R for Data Science](https://r4ds.hadley.nz/)
 
 ## Laboratory Data Science
 
@@ -44,17 +54,12 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 
 
 
-## Python
-
-#### Introduction to Python
-- [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_cid=22785184688&utm_aid=185890093361&utm_campaign=220808_1-ps-brd~brd~branded-variations_2-b2c_3-nam_4-rtw_5-na_6-na_7-le_8-pdsh-go_9-b-e_10-na_11-na&utm_loc=9007781-&utm_mtd=e-c&utm_kw=datacamp%20python%20course&utm_source=google&utm_medium=paid_search&utm_content=ps-other~nam-en~brd~tech~python&gad_source=1&gad_campaignid=22785184688&gbraid=0AAAAADQ9WsHA-WwTX0UE7KV3GZVFT3crP&gclid=CjwKCAiAuIDJBhBoEiwAxhgyFlePRJEFIy1oBgZ9ifOMjJ5CN0fIaj9ryc_CZOiAliENUOQEb-rXVRoC0CcQAvD_BwE)
-- [Python Tutorial - Kaggle](https://www.kaggle.com/learn/python)
 
 
 ## R
 
 #### R Books
-- [R for Data Science](https://amzn.to/2MFCLcy)
+
 - [R in Action: Data Analysis and Graphics with R](https://amzn.to/2CWUHuz)
 - [R for Everyone: Advanced Analytics and Graphics](https://amzn.to/2MH1wF4)
 
