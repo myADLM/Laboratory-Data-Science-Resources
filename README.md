@@ -11,7 +11,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 - [Open-Source Tools & Platforms](#opensource)
 - [Journals](#journals)
 - [Getting Help](#help)
-- [Contributin](#contributing)
+- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## Getting Started
