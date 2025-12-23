@@ -1,10 +1,13 @@
-# **Tool Name** - Brief Description 
 
+## Summary
+Describe what your PR changes and why it improves the repository.
 
-- **What it does**: One sentence description
-- **Key features**: 3-5 bullet points
-- **Best for**: Primary use case
-- **Language**: Programming language
-- **Status**: ✅ Active / ⚠️ Maintenance / ❌ Archived
+## Checklist
+- [ ] Links load and match titles
+- [ ] Resource placed in correct category  
+- [ ] Short description (1–2 sentences) explains relevance to lab medicine
+- [ ] Headings and bullets follow README conventions
+- [ ] No duplicate entries
 
-- **Use cases**: Practical examples
+## Notes
+Add context (e.g., conference, ADLM program, or publication).
