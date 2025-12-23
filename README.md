@@ -83,7 +83,24 @@ Start here if you have laboratory experience but are new to data science.
 ## Getting Help
 - Join our Data Science and Informatics Community: [artery.myadlm.org/communities](https://artery.myadlm.org/communities/community-home?CommunityKey=d2d3c9b4-b3d6-4eed-ab45-fdb3d4cc8ff4)
 
-## Contribution Guidelines
+## Contributing
+
+We welcome contributions! This is a community-driven resource.
+
+### How to Contribute
+
+1. **Star this repository** to show support
+2. **Submit pull requests** for:
+- New tools and resources
+- Updated links or descriptions
+- New datasets or tutorials
+- Corrections or improvements
+3. **Open issues** for:
+- Broken links
+- Outdated information
+- Suggestions for new sections
+
+### Contribution Guidelines
 
 - **Quality over quantity**: Focus on resources that are actively maintained and well-documented
 - **Educational value**: Prioritize resources that help people learn
