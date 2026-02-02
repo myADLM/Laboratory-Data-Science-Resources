@@ -5,6 +5,7 @@ Welcome to the Association for Diagnostics & Laboratory Medicine (ADLM) Data Sci
 ## Table of Contents
 - [Getting Started](#gettingstarted)
 - [Laboratory Data Science](#labdatascience)
+- [Best Practice for Machine Learning](#bp)
 - [Datasets and Code](#datasetcode)
 - [R](#r)
 - [SQL](#sql)
@@ -30,7 +31,11 @@ Start here if you have laboratory experience but are new to data science.
 - [Machine learning algorithms for predicting urinary tract infections: Integration of demographic data and dipstick reflectance results](https://myadlm.org/education/all-webinars/webinars/2025/november/machine-learning-algorithms-for-predicting-urinary-tract-infections)
 - [Advancing patient care with data science in clinical laboratories](https://myadlm.org/education/online-courses/online-courses/advancing-patient-care-with-data-science-in-clinical-laboratories)
 - [On Demand Webinars Data Analytics Webinars](https://myadlm.org/education/all-webinars/on-demand-webinars#q=%22data%20analytics%22%20&sort=%40searchdatecoveo%20descending)
-- [Data science in laboratory medicine certificate program - COMING SOON](https://myadlm.org/education/online-certificate-programs/certificate-programs/data-science-in-laboratory-medicine-certificate-program)
+- [Data science in laboratory medicine certificate program](https://myadlm.org/education/online-certificate-programs/certificate-programs/data-science-in-laboratory-medicine-certificate-program)
+
+ ## Best Practice for Machine Learning
+- [Good Machine Learning Practice](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
+- [MI-CLAIMchecklist](https://www.equator-network.org/reporting-guidelines/minimum-information-about-clinical-artificial-intelligence-modeling-the-mi-claim-checklist/)
   
 ## Datasets and Code
 
