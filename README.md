@@ -35,7 +35,7 @@ Start here if you have laboratory experience but are new to data science.
 
  ## Best Practice for Machine Learning
 - [Good Machine Learning Practice](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
-- [MI-CLAIMchecklist](https://www.equator-network.org/reporting-guidelines/minimum-information-about-clinical-artificial-intelligence-modeling-the-mi-claim-checklist/)
+- [MI-CLAIM Checklist](https://www.equator-network.org/reporting-guidelines/minimum-information-about-clinical-artificial-intelligence-modeling-the-mi-claim-checklist/)
   
 ## Datasets and Code
 
